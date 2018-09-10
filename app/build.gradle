@@ -10,13 +10,13 @@ android {
         }
     }
 
-    compileSdkVersion 26
+    compileSdkVersion 22
     buildToolsVersion "27.0.3"
 
     defaultConfig {
         applicationId "com.mbx.settingsmbox"
-        minSdkVersion 17
-        targetSdkVersion 17
+        minSdkVersion 16
+        targetSdkVersion 22
     }
 
     buildTypes {
